@@ -1,5 +1,6 @@
-# Principles of Electrical Engineering Cheat Sheet
-
+---
+title: Principles of Electrical Engineering Cheat Sheet
+---
 ## Basics
 
 * $V=IR$ | $P=IV$ | $P=\frac{V^2}{R}$
@@ -46,7 +47,7 @@ $$ R_{AC}= \frac{R_A R_B + R_A R_C + R_B R_C}{R_B}$$
 * $I_n=I_p=0$ | $V_n=V_p$
 * Perform KCL @ inputs, Node voltage method
 
-![Types of Op Amps](/img/Op-Amp.png)
+![Types of Op Amps](Op-Amp.png)
 
 ## Time Varying Sources
 
